@@ -8,7 +8,7 @@
 
 </br>
 
-## Languages i use [For now😉]
+## Languages & Tools I Use [For now😉]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pishere&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
