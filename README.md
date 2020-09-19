@@ -4,6 +4,6 @@
 </br>
 ### One Step At A Time😋
 </br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pishere&repo=consistancy&theme=cobalt)](https://github.com/pishere/consistancy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pishere&repo=consistancy&theme=cobalt)](https://github.com/pishere/consistancy)]
 
 
