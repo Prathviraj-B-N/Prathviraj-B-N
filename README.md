@@ -1,11 +1,16 @@
 
 ### Namaste 🙏
+</br>
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="pishere's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pishere&show_icons=true&theme=vue" />
 
 </details>
+</br>
+### Languages and Tools:
+
+[<img align="left" alt="C" width="26px" src="https://github.com/pishere/pishere/blob/master/c.png" />]
 <!--
 **pishere/pishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
