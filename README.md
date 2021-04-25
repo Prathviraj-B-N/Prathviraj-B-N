@@ -7,7 +7,7 @@
 ### One Step At A Time😋
 </br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Prathviraj-B-N&repo=stayWatch&theme=cobalt)](https://github.com/pishere/consistancy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Prathviraj-B-N&repo=stayWatch&theme=cobalt)](https://github.com/Prathviraj-B-N/stayWatch)
 
 ### Languages & Tools I Use [For now😉]
 </br>
