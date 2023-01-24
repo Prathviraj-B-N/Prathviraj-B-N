@@ -3,7 +3,7 @@
 
 <h2 align="center"> Self-Driven, curious, and passionate about coding!</h2>
 
-* 🪕 I’m currently learning Spring Boot! <br>
+* 🪕 I’m currently learning Spring Boot and jenkins! <br>
 
 * 🌊 2023 Goals: Become a better Full Stack dev <br>
 
