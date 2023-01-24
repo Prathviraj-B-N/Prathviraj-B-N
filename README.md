@@ -14,7 +14,7 @@
 <h2></h2><br>
 
 <p align="center"> 
-  <img src="[assests/nightlife.gif](https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif)" alt="coder" /> 
+  <img src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif" alt="coder" /> 
 </p>
 
 <div align="center">
