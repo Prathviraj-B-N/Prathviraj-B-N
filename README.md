@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=24&pause=1000&color=3F29F7&background=000000&center=true&vCenter=true&width=450&height=55&lines=Hey+devs%2C+welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=24&pause=1000&color=3F29F7&center=true&vCenter=true&width=450&height=55&lines=Hey+devs%2C+welcome+to+my+github)](https://git.io/typing-svg)
 <img  src="assests/borderseperator.gif">
 
 <h2 align="center"> Self-Driven, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
@@ -14,7 +14,7 @@
 <h2></h2><br>
 
 <p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+  <img src="[assests/nightlife.gif](https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif)" alt="coder" /> 
 </p>
 
 <div align="center">
