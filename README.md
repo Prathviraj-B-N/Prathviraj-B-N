@@ -3,13 +3,13 @@
 
 <h2 align="center"> Self-Driven, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning Spring Boot! <br><br><br>
+* 🪕 I’m currently learning Spring Boot! <br>
 
-* 🌊 2023 Goals: Become a better Full Stack dev <br><br><br>
+* 🌊 2023 Goals: Become a better Full Stack dev <br>
 
-* ☕ Interest: Bikes and Coding. <br><br><br>
+* 🛣️ Interest: Bikes and Coding. <br>
 
-* :octocat: Hobbies: Anime/Manga. <br><br>
+* 🎠 Hobbies: Anime/Manga. <br><br>
 
 <h2></h2><br>
 
@@ -28,7 +28,7 @@
 </div>
 
 <p align="center"><br>
-  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+  <img align="center" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif" alt="Lofi coding" /> <br>
 </p>
   
 <div align="center">
