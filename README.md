@@ -44,14 +44,3 @@
 </div> <br>
 
 <img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="www.linkedin.com/in/prathviraj-b-n" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:prathviraj.b.n@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-    
-</p> 
