@@ -9,7 +9,7 @@
 
 * 🛣️ Interest: Bikes and Coding. <br>
 
-* 🎠 Hobbies: Anime/Manga. <br><br>
+* 🎠 Hobbies: Anime. <br><br>
 
 <h2></h2><br>
 
@@ -19,12 +19,13 @@
 
 <div align="center">
   <p align="center">
+  <h2> <strong> I have used </strong></h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,js,docker,react,html,css,githubactions,gitlab,hibernate,jenkins,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,js,docker,react,html,css,githubactions,gitlab,hibernate,jenkins,mysql,vscode,ts,tailwind,spring,py,postman,nodejs,mongodb" />
   </a>
 </p>
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=kubernetes,nextjs,spring" alt="skills planning to learn logos">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=kubernetes,nextjs,golang" alt="skills planning to learn logos">
 </div>
 
 <p align="center"><br>
@@ -35,12 +36,9 @@
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Prathviraj-B-N&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
     
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=Prathviraj-B-N&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages"> <br>
 
-    
   <img src="https://streak-stats.demolab.com/?%20%20%20%20user=Prathviraj-B-N&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=Prathviraj-B-N&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
 
 <img src="assests/borderseperator.gif">
