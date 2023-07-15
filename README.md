@@ -1,17 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=24&pause=1000&color=3F29F7&center=true&vCenter=true&width=450&height=55&lines=Hey+devs%2C+welcome+to+my+github)](https://git.io/typing-svg)
-<img  src="assests/borderseperator.gif">
+<h2 align="center"> Self-Driven, curious, and passionate Dev!</h2>
 
-<h2 align="center"> Self-Driven, curious, and passionate about coding!</h2>
-
-* 🪕 I’m currently learning DevOps and Full Stack! <br>
-
-* 🌊 2023 Goals: Become a better Full Stack dev <br>
-
-* 🛣️ Interest: Bikes and Coding. <br>
-
-* 🎠 Hobbies: Anime. <br><br>
-
-<h2></h2><br>
+<br>
 
 <p align="center"> 
   <img src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif" alt="coder" /> 
@@ -21,24 +10,15 @@
   <p align="center">
   <h2> <strong> I have used </strong></h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,js,docker,react,html,css,githubactions,gitlab,hibernate,jenkins,mysql,vscode,ts,tailwind,spring,py,postman,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,js,docker,nextjs,react,html,css,githubactions,gitlab,hibernate,jenkins,mysql,vscode,ts,tailwind,spring,py,postman,nodejs,mongodb" />
   </a>
 </p>
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=kubernetes,nextjs,golang" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=kubernetes,golang" alt="skills planning to learn logos">
 </div>
-
-<p align="center"><br>
-  <img align="center" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif" alt="Lofi coding" /> <br>
-</p>
-  
+<h2></h2>
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Prathviraj-B-N&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
     
-
   <img src="https://streak-stats.demolab.com/?%20%20%20%20user=Prathviraj-B-N&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 
 </div> <br>
-
-<img src="assests/borderseperator.gif">
