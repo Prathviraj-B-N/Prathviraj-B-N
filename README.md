@@ -14,7 +14,7 @@
   </a>
 </p>
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=kubernetes,golang" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet" alt="skills planning to learn logos">
 </div>
 <h2></h2>
 <div align="center">
